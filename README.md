@@ -1,5 +1,9 @@
 # Motor Imagery Classification
 
+<p align="center">
+<img src="PSD.png" alt="PSD Image" width="400"/>
+</p>
+
 Motor imagery is the action of thinking about a movement without actually moving your body. This project aims to classify motor imagery movements using classical machine learning algorithms based on EEG signals. 
 
 The data was gathered from the Berlin Brain-Computer Interface's BCI Competition IV [dataset 2a](https://www.bbci.de/competition/iv/#dataset2a). 
